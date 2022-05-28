@@ -1,5 +1,9 @@
 # Arma-Reforger-Server-mods-CLI
-Automatically format mod folder with ModID's to a json file
+Dumps all the mods with modID, name and version in a file with the formatting required by the server config file.
+See mods.json as an example 
+
+
+
 ## Requirements: 
 Python >= 3.4  
 
