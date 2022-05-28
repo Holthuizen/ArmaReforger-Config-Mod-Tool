@@ -9,7 +9,7 @@ Python >= 3.4
 2) open cmd in that folder and run `python listmods.py`
 3) open mods.json
 
-[[image](https://user-images.githubusercontent.com/45522614/170824453-c6e7cc35-9f52-4f9f-b8c3-24912f98cae2.png | width=300px)]
+![image](https://user-images.githubusercontent.com/45522614/170824453-c6e7cc35-9f52-4f9f-b8c3-24912f98cae2.png
 
 
 -- feel free to use & edit the code
